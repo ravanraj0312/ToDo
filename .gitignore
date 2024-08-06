@@ -7,7 +7,7 @@
 //server/build/
 
 # Environment variables
-/.env
+.env
 
 # Logs
 *.log
