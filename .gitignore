@@ -1,31 +1,29 @@
 # Node modules
-/node_modules/
+/client/node_modules/
+/server/node_modules/
 
 # Build output
-/build/
-/dist/
+/client/build/
+//server/build/
 
 # Environment variables
-.env
+/.env
 
 # Logs
 *.log
 
-# Dependency directories
-/.pnp
-.pnp.js
-
 # IDE and editor settings
-.vscode/
-.idea/
-*.swp
+/.vscode/
+/.idea/
+/*.swp
 
 # OS-specific files
 .DS_Store
 Thumbs.db
 
 # Coverage reports
-/coverage/
+/client/coverage/
+/server/coverage/
 
 # Temporary files
 *.tmp
