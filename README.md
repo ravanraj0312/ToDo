@@ -33,8 +33,8 @@ This is a simple To-Do List application built using the MERN stack (MongoDB, Exp
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/to-do-list.git
-cd to-do-list
+git clone https://github.com/ravanraj0312/ToDo.git
+cd ToDo
 ```
 
 ### Setup Backend
@@ -61,7 +61,7 @@ cd to-do-list
 4. Start the backend server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ### Setup Frontend
@@ -69,7 +69,7 @@ cd to-do-list
 1. Navigate to the `client` directory:
 
    ```bash
-   cd ../client
+   cd client
    ```
 
 2. Install dependencies:
@@ -116,9 +116,6 @@ To-Do/
 ```
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
